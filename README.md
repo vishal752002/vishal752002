@@ -5,17 +5,17 @@
 
 ### 🔭 I’m currently working on:
 - Building real-world projects:  
-  **Interview Platform**, **Parking Rental App**, and **Web Dev Agency (The Vertex Solutions)**.
+  **Virtual Assistant**, **E-commerce**, and **Food Delivery**.
 
 ### 🌱 I’m currently learning:
-- **DevOps**, **Docker**, **Kubernetes**, **CI/CD**, and **scalable backend architecture**.
+- **Machine Learning**, **AI**, **Python**, **Data Analyst**, and **Data Science**.
 
 ### 💬 Ask me about:
 - **MERN Stack**
 - **React.js**, **Next.js**, **TypeScript**
 - **React Native**, **Tailwind**, **ShadCN**
 - **Go Backend**, **Convex**, **Clerk**, **Stream**
-- **Firebase**, **UI/UX** for web & mobile apps
+- **Firebase**, **UI/UX**
 
 ### ⚙️ Technologies I work with:
 <p align="center">
@@ -25,9 +25,9 @@
 </p>
 
 ### 📫 How to reach me:
-📧 **jhabineet0@gmail.com**
+📧 **vishal.k.singh9504@gmail.com**
 
-<h3 align="left">👨‍💻 All of my projects are available at:</h3>
+<!-- <h3 align="left">👨‍💻 All of my projects are available at:</h3>
 
 <a href="https://portfolio-kappa-lilac-31.vercel.app/" target="_blank">
   <p align="left">
@@ -46,7 +46,7 @@
       🚀 Visit My Portfolio
     </span>
   </p>
-</a>
+</a> -->
 
 
 ### 🎤 Fun fact:
@@ -66,10 +66,10 @@ How do you comfort a JavaScript bug?
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhabineet&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jhabineet&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=vishal752002&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jhabineet&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=vishal752002&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jhabineet&icon=0&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=vishal752002&icon=0&color=4)](https://visitcount.itsvg.in)
